@@ -47,7 +47,7 @@ p {
   color: black;
   background: #f3f3f3;
   width: 1110px;
-  height: 615px;
+  height: 95vh;
   margin: auto;
 }
 
@@ -60,7 +60,7 @@ p {
 }
 
 .cherry-a {
-  color: #8f2727;
+  color: #d74949;
 }
 
 img {
@@ -121,6 +121,8 @@ img {
 }
 
 footer {
+  position: sticky;
+
   display: flex;
   justify-content: center;
   align-items: center;
