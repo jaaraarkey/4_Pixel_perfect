@@ -97,6 +97,7 @@ img {
 }
 
 .name-contact {
+  margin-left: 16px;
   display: flex;
   margin-top: 7px;
   flex-direction: column;
@@ -105,9 +106,8 @@ img {
 .box,
 .box-1 {
   position: relative;
-  width: 20px;
-  height: 20px;
-  margin-left: 5px;
+  width: 18px;
+  height: 18px;
 }
 
 .box-1 {
@@ -117,7 +117,6 @@ img {
 
 .contact {
   display: flex;
-  margin-left: 13px;
   margin-top: 10px;
 }
 
